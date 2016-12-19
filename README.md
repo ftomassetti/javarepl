@@ -8,3 +8,5 @@ Planned features:
 * generate Java code according to templates
 * query git commits (e.g., which classes were changed by last commit?)
 * update/check copyright message
+* reformat automatically
+* fix imports
